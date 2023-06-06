@@ -1,11 +1,5 @@
-# SOLAR - NS
-<h2>Developed by Ghazi-Rahman Ammar and Volstrostia</h2><br>
-
-Solar is a small tool to get a list of:<br>
--WA Nations not endorsing the Delegate and Officers of a target region.<br>
--WA Nations not endorsing the target nation.<br>
--Non WA nations in a target region.<br>
-
-
-Contact me on discord @ Muhammad Musa#2170 with any issues :)<br>
-(You need python installed)<br>
+# SOLARRAT - NS
+Developed by Ghazi-Rahman Ammar and Volstrostia, forked by Malphe to preserve a more basic command-line variant.
+A NationStates diagnostic tool, use it if you need endorsement related statistics or nation lists for telegrams, RMB posts, dispatches.
+Install Python 3.11, ensure you have necessary packages installed, run the .py file. 
+Contact me on Discord if you have troubles.
